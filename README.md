@@ -1,4 +1,4 @@
-# Hi there 👋 , I am Argi!
+# Hi there 👋 , I am Argi Nur Faturrohman!
 Currently working with Backend & Fullstack Development with Cloud Computing for Deployment, but I love learn new thing in programming such as Internet of Things, Machine Learning, etc.  
 
 ### Stats:
