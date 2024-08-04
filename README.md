@@ -1,12 +1,10 @@
 # Hi there 👋 , I am Argi Nur Faturrohman!
-Currently working with Backend & Fullstack Development with Cloud Computing for Deployment, but I love learn new thing in programming such as Internet of Things, Machine Learning, etc.  
+Currently working with Backend Development, but I love learn new thing in programming Machine Learning, etc.  
 
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently working on Fullstack Development </br>
-    - 🌱 I’m currently learning Javascript, Go, and UIKit </br>
-    - 👯 I’m looking to collaborate on Fullstack Project, Mobile Apps, Cloud Computing. </br>
+    - 🔭 I’m currently working on Backend Development </br>
     - 🤔 I’m looking for help with master of programming. hihi </br>
     - 💬 Ask me about anything.</br>
     - 📫 How to reach me: <a href="mailto:argifatur@gmail.com">Email me!</a>  </br>
